@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunks05_station=self.webpackChunks05_station||[]).push([[36850],{36850:(e,s,t)=>{t.r(s),t.d(s,{default:()=>i});var a=t(55171),n=t(6128);class d extends n.x{}d.prototype.declaredClass="esri.identity.IdentityManager";const i=new d;(0,a.setId)(i)}}]);
+//# sourceMappingURL=36850.43c758fb.chunk.js.map

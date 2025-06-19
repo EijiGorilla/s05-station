@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunks05_station=self.webpackChunks05_station||[]).push([[1065],{1065:(s,t,e)=>{e.r(t),e.d(t,{default:()=>a});var n=e(35143),l=e(91967),i=e(46053),o=(e(81806),e(76460),e(47249),e(85842));let u=class extends l.default{constructor(s){super(s),this.dimension=null,this.length=null}};(0,n._)([(0,i.MZ)({constructOnly:!0,nonNullable:!0})],u.prototype,"dimension",void 0),(0,n._)([(0,i.MZ)()],u.prototype,"length",void 0),u=(0,n._)([(0,o.$)("esri.views.analysis.LengthDimensionResult")],u);const a=u}}]);
+//# sourceMappingURL=1065.869f005f.chunk.js.map
